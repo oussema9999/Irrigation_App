@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485488886896",
+    "project_id": "irregation-app",
+    "storage_bucket": "irregation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485488886896:android:a3e72a1f1017f1f4e260b5",
+        "android_client_info": {
+          "package_name": "com.example.irregat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485488886896-e1nfu47uadlk9a54sbufg41favojnnth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFHPjSowV5piRFvP-axljAYvUKikknvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485488886896-e1nfu47uadlk9a54sbufg41favojnnth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
